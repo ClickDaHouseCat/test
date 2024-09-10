@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Object 1",
+    "description": "This is the first object.",
+    "price": 100,
+    "category": "Category A",
+    "image": "1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Object 2",
+    "description": "This is the second object.",
+    "price": 150,
+    "category": "Category B",
+    "image": "2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Object 3",
+    "description": "This is the third object.",
+    "price": 200,
+    "category": "Category A",
+    "image": "3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Object 4",
+    "description": "This is the fourth object.",
+    "price": 250,
+    "category": "Category C",
+    "image": "4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Object 5",
+    "description": "This is the fifth object.",
+    "price": 300,
+    "category": "Category B",
+    "image": "5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Object 6",
+    "description": "This is the sixth object.",
+    "price": 350,
+    "category": "Category C",
+    "image": "6.jpg"
+  }
+]

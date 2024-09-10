@@ -1,0 +1,35 @@
+#block {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+  width: 200px;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.card p {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.card button {
+  padding: 10px 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.card button:hover {
+  background-color: #0056b3;
+}
